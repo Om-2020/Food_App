@@ -1,8 +1,8 @@
 # parcel Working
-Dev Build
-Local Server
-HMR = Hot Module Replacement
-File Watching Algorithm - written in C++
+  Dev Build
+  Local Server
+  HMR = Hot Module Replacement
+  File Watching Algorithm - written in C++
 Caching - Faster Builds
 Image Optimization
 Minification
